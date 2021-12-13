@@ -21,14 +21,24 @@ body {
 /* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.7;
+ 
 }
 
 /* Set a specific color for each brand */
 
 /* Facebook */
 .fa-facebook {
-  color: white;
+  color:black;
 }
+
+/* Linkedin*/
+.fa-linkedin {
+  color: black;
+}
+.fa-phone {
+  color:black;
+}
+
 
 #social-icons {
   float:right;
@@ -225,7 +235,7 @@ iframe {
       background-image: url("home/images/apple.jpg"); 
   }
   .slideshow li:nth-child(2) span { 
-      background-image: url("home/images/fossilwatch.png");
+      background-image: url("portfolio/letters.png");
       animation-delay: 6s; 
   }
   .slideshow li:nth-child(3) span { 
